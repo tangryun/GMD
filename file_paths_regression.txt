@@ -1,0 +1,3 @@
+path_input: /lustre/haven/user/rtang7/analysis/2021_Peat/Input_data/tiff/1deg_v3/FireCCI_BA_test/Classification_all/Clean_data_all-year/
+input_location: /lustre/haven/user/rtang7/analysis/2021_Peat/Input_data/Pixel_Location_30pct_1deg.csv
+path_error: /lustre/haven/user/rtang7/analysis/2021_Peat/Input_data/tiff/1deg_v3/FireCCI_BA_test/Classification_all/Clean_data_all-year/
