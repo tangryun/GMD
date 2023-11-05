@@ -20,7 +20,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 This is a simple example of running a simulation. To run different simulations, the settings should be changed in scripts case by case. 
 
-	cd Tangetal2023/Scripts/
+	cd GMD/
 
 	# run the classification step
 	python classification_demo.py
